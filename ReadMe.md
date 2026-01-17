@@ -60,3 +60,25 @@ The insights from this analysis can help:
 ---
 
 ## 📁 Project Structure
+
+UIDAI_Aadhaar_Analysis/
+│── aadhaar_analysis.ipynb
+│── aadhaar_enrolment_cleaned.csv
+
+
+
+---
+
+## 🚀 Tools & Technologies
+- Python
+- Pandas
+- Matplotlib / Seaborn
+- Jupyter Notebook
+
+---
+
+## 📌 Notes
+- This project was created as part of a data-driven innovation assessment using UIDAI datasets.
+- The notebook is fully reproducible and can be run end-to-end.
+
+
